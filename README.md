@@ -8,28 +8,28 @@ I'm Kamryn, your friendly neighborhood cs major who’s passionate about creatin
 
 🛠️ What I’m Working On
 
-🚀 Portfolio: The accumulation of all of my college experience as a 2D Platformer
+  🚀 Portfolio: The accumulation of all of my college experience as a 2D Platformer
 
-🎮 Rogue Bison: AI-driven roguelike adventure game that merges dynamic environments with engaging storytelling! 🐂💥
+  🎮 Rogue Bison: AI-driven roguelike adventure game that merges dynamic environments with engaging storytelling! 🐂💥
 
 💡 What I’m Learning
 
-🔍 Exploring machine learning to uncover how AI can drive positive change and empower communities. 🤖
+  🔍 Exploring machine learning to uncover how AI can drive positive change and empower communities. 🤖
 
-💼 Fine-tuning my event coordination and logistical planning skills.
+  💼 Fine-tuning my event coordination and logistical planning skills.
 
 🌈 Fun Facts
 
-🎲 I’m a TTRPG enthusiast and represent as the Women’s Liaison for my university's games club. 🎭
+  🎲 I’m a TTRPG enthusiast and represent as the Women’s Liaison for my university's games club. 🎭
 
-☁️ I’ve interned at Riot Games, working with Esports and learning about everything involved in creating a successful event.
+  ☁️ I’ve interned at Riot Games, working with Esports and learning about everything involved in creating a successful event.
 
-✨ I'm passionate about weaving social impact into technology and gaming.
+  ✨ I'm passionate about weaving social impact into technology and gaming.
 
 📫 Let’s Connect!
 
-📧 Email: kamryntate@gmail.com
+  📧 Email: kamryntate@gmail.com
 
-💼 LinkedIn: https://www.linkedin.com/in/kamryn-tate-b677ab204/
+  💼 LinkedIn: https://www.linkedin.com/in/kamryn-tate-b677ab204/
 
-🌐 Portfolio: (coming soon!)
+  🌐 Portfolio: (coming soon!)

@@ -1,6 +1,7 @@
 # GetToKnowMe
 
-👋🏾 Hi there! Welcome to my GitHub!
+👋🏾 Hi there!
+Welcome to my GitHub!
 I'm Kamryn, your friendly neighborhood cs major who’s passionate about creating innovative projects and pushing the boundaries of AI and game development 🌟
 
 🛠️ What I’m Working On
